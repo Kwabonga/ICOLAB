@@ -1,1 +1,2 @@
 # ICOLAB
+A computer lab booking system for students and lecturers. In this Web application students can book a single computer for specific time based on the computer available. Lectures can book the entire computer lab room.Based on the users location, the user will book based on their current location meaning you can't access the computer or a room of a different campus if your location is on another campus. 
